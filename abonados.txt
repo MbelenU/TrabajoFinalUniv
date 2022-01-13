@@ -1,0 +1,2 @@
+Llavallol,10,Lomas,15,20.00
+Burzaco,2,Adrogue,4,10.00
